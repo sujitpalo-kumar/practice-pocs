@@ -16,7 +16,7 @@ const Login = () => {
         password: ""
     })
 
-    const [data, setData] = useState([]);
+    // const [data, setData] = useState([]);
     console.log(inpval);
 
     const getdata = (e) => {
